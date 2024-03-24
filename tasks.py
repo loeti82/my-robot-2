@@ -12,6 +12,7 @@ import shutil
 @task
 def order_robots_from_RobotSpareBin():
     """
+    comment to trigger task
     Orders robots from RobotSpareBin Industries Inc.
     Saves the order HTML receipt as a PDF file.
     Saves the screenshot of the ordered robot.
